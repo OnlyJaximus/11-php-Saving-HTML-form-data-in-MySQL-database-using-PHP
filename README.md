@@ -11,9 +11,9 @@
 - create a database and table using phpMyAdmin
 - use an SQL INSERT INTO statement to insert a record
 
-Relevant documentation:
-  https://github.com/kognise/water.css/blob/master/README.md
-  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input 
-  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea 
-  https://www.php.net/manual/en/filter.filters.validate.php 
-  https://www.php.net/manual/en/mysqli-stmt.bind-param.php#refsect1-mysqli-stmt.bind-param-parameters
+Relevant documentation:<br>
+  https://github.com/kognise/water.css/blob/master/README.md <br>
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input  <br>
+  https://developer.mozilla.org/en-US/docs/Web/HTML/Element/textarea  <br>
+  https://www.php.net/manual/en/filter.filters.validate.php  <br>
+  https://www.php.net/manual/en/mysqli-stmt.bind-param.php#refsect1-mysqli-stmt.bind-param-parameters <br>
